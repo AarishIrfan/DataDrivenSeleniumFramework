@@ -17,16 +17,8 @@ This framework automatically tests web login functionality using data from CSV f
 
 - Chrome
 - Edge  
-- Firefox
 
-## 📁 Project Files
 
-```
-📦 DataDrivenSeleniumFramework
-├── 📄 SeleniumTests.cs      # Main test file
-├── 📄 Login.cs              # Login page helper
-├── 📄 Data.csv              # Test data
-└── 📄 app.config            # Configuration
 ```
 
 ## 🏃‍♂️ Quick Start
@@ -95,10 +87,6 @@ driver.FindElement(By.Id("password")).SendKeys(password);
 - **Flexible** - Add more test data without changing code
 - **Maintainable** - Clean structure with page objects
 
-## 👨‍💻 Author
 
-**Aarish Irfan**  
-GitHub: [@AarishIrfan](https://github.com/AarishIrfan)
 
----
-*Happy Testing! 🎉*
+
